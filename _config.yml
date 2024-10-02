@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Rui Gong"
-  avatar           : "images/avater300x400.jpg"
+  avatar           : "images/avater300.jpg"
   bio              : "SouthWest Petroleum University"
   location         : "SiChuan, China"
   employer         :
